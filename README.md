@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD AL AMIN KAZI</h1>
 <div align="center">
-  <img width="100%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/BANNER.png" alt="cover" />
+  <img width="100%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/B2.png" alt="cover" />
 </div>
 
 
