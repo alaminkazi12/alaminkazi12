@@ -6,7 +6,7 @@
 </div>
 
 <h2>About Me</h2>
-<p align="center">I am a web developer proficient in HTML, CSS, JavaScript, Tailwind, Daisy UI, React, Next.js, MongoDB, Figma, Firebase, and Express.js. I specialize in creating dynamic, user-friendly web applications with a keen eye for design and functionality. Passionate about the latest web technologies, I strive to deliver high-quality, cutting-edge projects.</p>
+<p align="left">I am a web developer proficient in HTML, CSS, JavaScript, Tailwind, Daisy UI, React, Next.js, MongoDB, Figma, Firebase, and Express.js. I specialize in creating dynamic, user-friendly web applications with a keen eye for design and functionality. Passionate about the latest web technologies, I strive to deliver high-quality, cutting-edge projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminkazi12&label=Profile%20views&color=0e75b6&style=flat" alt="alaminkazi12" /> </p>
 
