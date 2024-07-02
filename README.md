@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD AL AMIN KAZI</h1>
-<h3 align="center">Explore My Cutting-Edge Projects and Innovative Web Solutions</h3>
+<h3 align="center">I am a web developer proficient in HTML, CSS, JavaScript, Tailwind, Daisy UI, React, Next.js, MongoDB, Figma, Firebase, and Express.js. I specialize in creating dynamic, user-friendly web applications with a keen eye for design and functionality. Passionate about the latest web technologies, I strive to deliver high-quality, cutting-edge projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaminkazi12&label=Profile%20views&color=0e75b6&style=flat" alt="alaminkazi12" /> </p>
 
