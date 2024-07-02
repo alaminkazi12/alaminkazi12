@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+AL-AMIN+KAZI!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+AL-AMIN+KAZI!;A+Passionate+Web-Developer;" />
 </h1>
 <div align="center">
   <img width="100%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/B2.png" alt="cover" />
