@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="[https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png](https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS.png" alt="cover" />
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png](https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS.png" alt="cover" />
       </td>
     </tr>
   </tbody>
