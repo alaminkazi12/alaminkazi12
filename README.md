@@ -25,6 +25,19 @@
 
 <br />
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/alamin1321/">
+    <img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/LINKEDIN.png" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/mdalamin.kazi.9822">
+    <img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/FACEBOOK.png" alt="Facebook">
+  </a>
+  <a href="https://www.instagram.com/alaminthekazi/">
+    <img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/INSTAGRAM%20(1).png" alt="Instagram">
+  </a>
+</p>
+
+
 <table>
   <thead>
     <tr>
