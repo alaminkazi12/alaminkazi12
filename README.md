@@ -9,6 +9,12 @@
 <h2>About Me</h2>
 <p align="left">I am a web developer proficient in HTML, CSS, JavaScript, Tailwind, Daisy UI, React, Next.js, MongoDB, Figma, Firebase, and Express.js. I specialize in creating dynamic, user-friendly web applications with a keen eye for design and functionality. Passionate about the latest web technologies, I strive to deliver high-quality, cutting-edge projects.</p>
 
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminkazi12&%22%20alt=%22alaminkazi12&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminkazi12" alt="alaminkazi12" /></a> </p>
