@@ -21,10 +21,6 @@
 
 <br />
 
-[<p align="center"><img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/LINKEDIN.png">](https://www.linkedin.com/in/alamin1321/)[<img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/FACEBOOK.png">](https://www.facebook.com/mdalamin.kazi.9822)[<img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/INSTAGRAM%20(1).png"> </p>](https://www.instagram.com/alaminthekazi/)
-
-<br />
-
 <p align="center">
   <a href="https://www.linkedin.com/in/alamin1321/">
     <img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/LINKEDIN.png" alt="LinkedIn">
@@ -36,6 +32,10 @@
     <img height="75" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/INSTAGRAM%20(1).png" alt="Instagram">
   </a>
 </p>
+
+<br />
+
+
 
 
 <table>
