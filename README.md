@@ -17,6 +17,29 @@
 </p>
 
 
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>PTechnologies that I know</strong></span>
+      </td>
+    </tr>
+  </thead>
+  <br /><br />
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="[https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png](https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
+</div>
+
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alaminkazi12" alt="alaminkazi12" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
