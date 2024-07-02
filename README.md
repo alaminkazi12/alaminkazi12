@@ -1,12 +1,9 @@
-<h1 align="center">
+<h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+AL-AMIN+KAZI!;A+Passionate+Web-Developer;" />
 </h1>
 <div align="center">
   <img width="100%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/B2.png" alt="cover" />
 </div>
-
-
-
 
 <h3 align="center">I am a web developer proficient in HTML, CSS, JavaScript, Tailwind, Daisy UI, React, Next.js, MongoDB, Figma, Firebase, and Express.js. I specialize in creating dynamic, user-friendly web applications with a keen eye for design and functionality. Passionate about the latest web technologies, I strive to deliver high-quality, cutting-edge projects.</h3>
 
