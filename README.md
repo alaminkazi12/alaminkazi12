@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS.png" alt="cover" />
+        <img width="70%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS%20(1).png" alt="cover" />
       </td>
     </tr>
   </tbody>
