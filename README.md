@@ -15,13 +15,13 @@
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=alaminkazi12&%22%20alt=%22alaminkazi12&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
-
+</div>
 
 <table>
   <thead>
     <tr>
       <td align="center">
-        <span><strong>PTechnologies that I know</strong></span>
+        <span><strong>Technologies that I know</strong></span>
       </td>
     </tr>
   </thead>
@@ -29,7 +29,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <img width="70%" src="[https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS.png" alt="cover] />
+        <img width="70%" src="https://github.com/alaminkazi12/alaminkazi12/blob/main/TOOLS.png" alt="cover" />
       </td>
     </tr>
   </tbody>
